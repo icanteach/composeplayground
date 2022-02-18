@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ComposePlayground</string>
+
+    <string name="text">"Text"</string>
+    <string name="text_field">"TextField"</string>
+    <string name="buttons">"Buttons"</string>
+    <string name="progress_indicators">"Progress"</string>
+    <string name="alert_dialog">"Alert Dialog"</string>
+    <string name="jetpack_compose">Jetpack Compose</string>
+</resources>
