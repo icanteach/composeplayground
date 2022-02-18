@@ -36,5 +36,9 @@ fun PlaygroundNavigation() {
         composable(route = Screen.Text.route) {
             TextScreen()
         }
+
+        composable(route = Screen.TextField.route) {
+            TextFieldScreen()
+        }
     }
 }

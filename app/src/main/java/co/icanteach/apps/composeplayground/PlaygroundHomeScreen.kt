@@ -37,6 +37,12 @@ fun PlaygroundHomeScreen(
                 onNavigation = {
                     navController.navigate(Screen.Text.route)
                 })
+
+            NavigationButton(
+                text = stringResource(id = R.string.text_field),
+                onNavigation = {
+                    navController.navigate(Screen.TextField.route)
+                })
         }
     }
 }
